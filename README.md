@@ -1,7 +1,4 @@
 # Prompts Recomendados para Desarrollo
-
-Estos prompts los podés usar en cualquier proyecto. Copialos y adaptalos a tu código.
-
 ---
 
 ## Code Review
